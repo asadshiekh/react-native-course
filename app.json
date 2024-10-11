@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-course",
-    "slug": "react-native-course",
+    "name": "My React Native App (Name)",
+    "slug": "react_native_asad",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "My React Native App (Scheme)",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
